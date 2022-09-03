@@ -1,3 +1,5 @@
+# This fork of CFSSL only provides enough functionality to work with [https://github.com/duo-labs/webauthn](https://github.com/duo-labs/webauthn). Everything else has been removed! It was created so that the incredibly large amount of dependencies of CFSSL would not be dragged into other projects.
+
 # CFSSL
 
 [![Build Status](https://travis-ci.org/cloudflare/cfssl.svg?branch=master)](https://travis-ci.org/cloudflare/cfssl)
