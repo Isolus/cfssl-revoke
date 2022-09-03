@@ -1,8 +1,1 @@
-dist/*
-coverage.txt
-profile.out
-bin
-*.deb
-*.rpm
-test
 .DS_Store
